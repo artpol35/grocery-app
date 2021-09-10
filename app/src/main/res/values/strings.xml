@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dagger Grocery</string>
+    <string name="name_of_product">Name of product:</string>
+    <string name="value_of_product">Value of product:</string>
+    <string name="write_off_points">Write off points</string>
+    <string name="collect_points">Collect points</string>
+    <string name="next_activity">next activity</string>
+</resources>
